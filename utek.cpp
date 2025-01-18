@@ -2,7 +2,10 @@
 
 int main() {
     // Write C++ code here
-    std::cout << "Hi UTEK";
-    std::cout << "HI WINNIE";
+    std::cout << "Hi UTEK\n";
+    std::cout << "HI WINNIE\n";
+    std::cout << "HI AGAIN STEPH\n";
+    
     return 0;
 } 
+
